@@ -68,3 +68,4 @@ for(btn of allbtns){
     btn.addEventListener("click",btnPress);
 }
 
+
